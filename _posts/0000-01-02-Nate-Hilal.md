@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+echo "This is fun";
 Use the left arrow to go back!
